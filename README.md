@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/db78e91a-cc35-4362-b928-ec6bf9cb14cc
 # Image Mainpulation Program 
 
 ## Table of Contents
@@ -10,8 +8,9 @@ https://github.com/user-attachments/assets/db78e91a-cc35-4362-b928-ec6bf9cb14cc
 
 ## Description
 This project is a GUI-based image processing application developed in C# using the EmguCV library. It enables users to explore images from their computer and apply various editing, enhancement, and analysis techniques through an intuitive and user-friendly interface. The processed image is displayed in real-time for easy visualization. 
-https://github.com/user-attachments/assets/43e8f545-22c0-47cc-8a0f-c634f26fe68a
-
+[https://github.com/user-attachments/assets/43e8f545-22c0-47cc-8a0f-c634f26fe68a
+](https://github.com/user-attachments/assets/db78e91a-cc35-4362-b928-ec6bf9cb14cc
+)
 
 ## Features
 
