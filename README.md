@@ -14,9 +14,9 @@ This project is a GUI-based image processing application developed in C# using t
 
  # 1. Image Details
    - Displays essential image information, including
-      - *width
+      - width
       - height
-      - format (JPEG, PNG, etc.)*.  
+      - format (JPEG, PNG, etc.).  
    - Provides *histograms* for grayscale and RGB channels.  
    - Extracts *image metadata* for detailed properties.
      
