@@ -12,7 +12,7 @@ This project is a GUI-based image processing application developed in C# using t
 
 ## Features
 
- # 1. Image Details
+ ### 1. Image Details
    - Displays essential image information, including
       - width
       - height
